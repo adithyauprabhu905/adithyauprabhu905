@@ -1,88 +1,30 @@
-# 🚀 ADITHYA U PRABHU - Machine Learning Engineer
+<!-- README.md - Adithya U Prabhu -->
 
+<h1 align="center">🚀 Adithya U Prabhu</h1>
+<h3 align="center">Machine Learning Engineer | Full Stack ML Enthusiast | AI Explorer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer;Building+AI-powered+systems;Exploring+Deep+Learning+Architectures;Let’s+build+something+awesome!&font=Fira+Code&center=true&width=600&height=45&color=36BCF7&vCenter=true">
+</p>
 
+---
 
+## 🧠 About Me
 
+```python
+class Adithya:
+    def __init__(self):
+        self.role = "Machine Learning Engineer"
+        self.skills = ["ML", "DL", "NLP", "Computer Vision"]
+        self.tools = ["Python", "MySQL", "C", "Streamlit", "React"]
+        self.goal = "Build intelligent AI systems and make an impact"
 
+    def current_focus(self):
+        return [
+            "🔬 AI Research & Development",
+            "📚 Deep Learning Models",
+            "🤝 Open Source Collaboration"
+        ]
 
-## 🌟 About Me
-
-**Aspiring Machine Learning Engineer** with a strong foundation in data science, machine learning, and deep learning techniques. Passionate about building intelligent systems and continually improving model performance, with additional proficiency in frontend technologies to support full-stack ML application development.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Featured Projects
-
-
-
-### 🏠 **House Price Prediction**
-*Advanced ML model for real estate price forecasting*
-
-### 🌸 **Iris Flower Classification**
-*Classic machine learning classification problem*
-
-### 🎬 **Movie Recommendation System**
-*Intelligent content recommendation engine*
-
-### 📄 **Chat with PDF**
-*AI-powered document interaction system*
-
-### 🚗 **Indian License Plate Detection**
-*Computer vision application for vehicle identification*
-
-### 📰 **Fake News Classification**
-*NLP-based misinformation detection system*
-
-### 🍎 **Disease Prediction Based on Food Consumption**
-*Research project linking nutrition and health outcomes*
-
-
-
-## 🎯 Core Competencies
-
-
-
-
-
-## 📊 GitHub Stats
-
-
-
-
-
-
-
-
-
-
-
-## 🎯 Current Focus
-
-
-
-🔬 **Research & Development** in AI/ML applications  
-🌱 **Learning** advanced deep learning architectures  
-🤝 **Collaborating** on innovative ML projects  
-📚 **Exploring** cutting-edge technologies in AI  
-
-
-
-
-
-### 💫 *"Building the future, one algorithm at a time"*
-
+me = Adithya()
+print(me.goal)
