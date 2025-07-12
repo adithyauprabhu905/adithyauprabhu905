@@ -70,7 +70,7 @@ print(f"🎯 Mission: {me.get_dream()}")
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"/>
 </div>
 
 ### 💻 Programming Languages
@@ -82,7 +82,7 @@ print(f"🎯 Mission: {me.get_dream()}")
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50"/>
 </div>
 
 ### 🧠 AI/ML Technologies
@@ -95,7 +95,7 @@ print(f"🎯 Mission: {me.get_dream()}")
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="50"/>
 </div>
 
 ### 🗄️ Databases & Cloud
@@ -222,15 +222,11 @@ print(f"🎯 Mission: {me.get_dream()}")
 ## 🔥 Recent Activity
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Pushing+code+daily;Building+ML+models;Contributing+to+open+source;Learning+new+technologies" alt="Activity" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Pushing+code+daily+💻;Building+ML+models+🤖;Contributing+to+open+source+🌟;Learning+new+technologies+📚;Experimenting+with+AI+🔬" alt="Activity" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a97a-b8fd3805b7e3.gif" width="120"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a97a-b8fd3805b7e3.gif" width="100"/>
 </div>
 
 ---
@@ -238,15 +234,15 @@ print(f"🎯 Mission: {me.get_dream()}")
 ## 🎨 Fun Facts
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=I+debug+with+print()+statements+💻;Coffee+is+my+primary+fuel+⚡☕;I+believe+AI+can+solve+world+problems+🌍;Currently+exploring+multimodal+AI+🤖;Neural+networks+are+my+playground+🧠" alt="Fun Facts" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=I+debug+with+print()+statements;Coffee+is+my+primary+fuel+⚡;I+believe+AI+can+solve+world+problems;Currently+exploring+multimodal+AI" alt="Fun Facts" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8ce9825649b9.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8ce9825649b9.gif" width="50"/>
 </div>
 
 ---
